@@ -23,6 +23,8 @@ app.use((req,res,next)=>{
     console.log(`${req.method} ${req.url}`);
 })
 
+app.use(express.json());
+
 
 
 
@@ -32,6 +34,22 @@ app.get("/", (req, res) => {
 
 app.get("/friends", (req, res) => {
   res.status(200).json(friends);
+});
+
+app.post('/friends', (req,res)=>{
+    if(!req.body.name ){
+      return  res.status(400).json({
+            error:'Name is required'
+        })
+    }
+ const newFriend = {
+      id: friends.length,
+      name: req.body.name
+ };
+ friends.push(newFriend);
+ res.json(newFriend);
+ 
+
 });
 
 
