@@ -1,11 +1,13 @@
 const express = require("express");
 const app = express();
 
-const messagesController = require("./controllers/messages.controller");
-const friendsController = require("./controllers/friends.controller");
+
+
+const friendsRouter = require('./routes/friends.router');
+
+const messagesRouter = require('./routes/messages.router');
 
 const PORT = 3000;
-
 
 
 app.use((req, res, next) => {
@@ -22,15 +24,11 @@ app.get("/", (req, res) => {
   res.send("Hello World");
 });
 
-app.get("/friends", friendsController.getFriends);
+// Middleware to use for all /friends requests
+app.use('/friends', friendsRouter);
 
-app.post("/friends", friendsController.postFriend);
-
-app.get("/friends/:friendId", friendsController.getFriend);
-
-app.get("/messages", messagesController.getMessages);
-
-app.post("/messages", messagesController.postMessage);
+// Middleware to use for all /messages requests
+app.use('/messages', messagesRouter);
 
 app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}`);
