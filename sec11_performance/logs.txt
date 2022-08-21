@@ -1,0 +1,1874 @@
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+ReferenceError: cluster is not defined
+    at Object.<anonymous> (D:\Computer Science\MernStack Learn\ZTMNODE\sec11_performance\server.js:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:1068:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+    at Module.load (internal/modules/cjs/loader.js:933:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:303:25
+    at wrapper (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\Users\GOLU\AppData\Roaming\npm\node_modules\pm2\lib\Utility.js:186:13)
+Worker process started
+Worker process started
+Worker process started
+Worker process started
